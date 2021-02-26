@@ -1,0 +1,4 @@
+name: Fishing
+version: ${project.version}
+main: zeton1942.gmail.com.fishing.Fishing
+api-version: 1.16
